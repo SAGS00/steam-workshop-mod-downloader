@@ -1,0 +1,33 @@
+
+
+[2025-04-19 13:06:26] Client version: 1743712175
+[2025-04-19 13:06:26] Failed to read store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf.tmp'
+[2025-04-19 13:06:27] Failed to read store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf.tmp'
+[2025-04-19 13:06:27] Failed to read store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf.tmp'
+[2025-04-19 13:06:27] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+[2025-04-19 13:06:28] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+
+
+[2025-04-19 13:07:17] Client version: 1743712175
+[2025-04-19 13:07:17] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:07:17] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:07:17] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:07:17] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:07:18] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:07:21] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+[2025-04-19 13:07:22] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+[2025-04-19 13:07:22] Failed to read store 'userlocal' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2025-04-19 13:07:23] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+[2025-04-19 13:07:25] Flushed store 'userlocal' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\userdata\anonymous\config\localconfig.vdf'
+[2025-04-19 13:07:32] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+
+
+[2025-04-19 13:14:36] Client version: 1743712175
+[2025-04-19 13:14:36] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:14:36] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:14:36] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:14:36] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:14:37] Loaded store 'install' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf' successfully
+[2025-04-19 13:14:37] Flushed store 'install' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\config\config.vdf'
+[2025-04-19 13:14:37] Loaded store 'userlocal' from 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\userdata\anonymous\config\localconfig.vdf' successfully
+[2025-04-19 13:14:39] Flushed store 'userlocal' to 'C:\Users\CHRNFRD\OneDrive\Desktop\steam_mod_downloader\steamcmd\userdata\anonymous\config\localconfig.vdf'

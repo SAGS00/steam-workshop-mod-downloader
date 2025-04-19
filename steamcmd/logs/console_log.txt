@@ -1,0 +1,31 @@
+
+
+[1970-01-01 08:00:00] OK
+[2025-04-19 13:06:27] 
+Steam>
+
+
+[1970-01-01 08:00:00] OK
+[2025-04-19 13:07:17] 
+Connecting anonymously to Steam Public...
+[2025-04-19 13:07:22] OK
+[2025-04-19 13:07:22] Waiting for client config...
+[2025-04-19 13:07:24] OK
+[2025-04-19 13:07:24] Waiting for user info...
+[2025-04-19 13:07:30] OK
+[2025-04-19 13:07:30] Downloading item 2840805724 ...
+[2025-04-19 13:07:34] 
+[2025-04-19 13:07:34] Success. Downloaded item 2840805724 to "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop\content\108600\2840805724" (2146057 bytes) 
+
+
+[1970-01-01 08:00:00] OK
+[2025-04-19 13:14:36] 
+Connecting anonymously to Steam Public...
+[2025-04-19 13:14:37] OK
+[2025-04-19 13:14:37] Waiting for client config...
+[2025-04-19 13:14:38] OK
+[2025-04-19 13:14:38] Waiting for user info...
+[2025-04-19 13:14:38] OK
+[2025-04-19 13:14:39] Downloading item 3436537035 ...
+[2025-04-19 13:14:39] 
+[2025-04-19 13:14:39] Success. Downloaded item 3436537035 to "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop\content\108600\3436537035" (685475 bytes) 

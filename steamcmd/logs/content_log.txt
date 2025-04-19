@@ -1,0 +1,52 @@
+
+
+[2025-04-19 13:07:22] Client version: 1743712175
+[2025-04-19 13:07:22] Loaded 0 apps from install folder "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\appmanifest_*.acf".
+[2025-04-19 13:07:22] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-04-19 13:07:30] AppID 108600 scheduler update : Priority First, not played for 1745039250 seconds, update disabled for 0 seconds
+[2025-04-19 13:07:30] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:07:30] AppID 108600 Workshop update changed : Running Update,Reconfiguring,
+[2025-04-19 13:07:32] Got 17 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 45 / Launcher 3)
+[2025-04-19 13:07:32] Moving to source priority class '6'
+[2025-04-19 13:07:32] Created download interface of type 'SteamCache' (7) to host cache1-mnl-cnvg.steamcontent.com (cache1-mnl-cnvg.steamcontent.com)
+[2025-04-19 13:07:32] Created download interface of type 'SteamCache' (7) to host cache1-cgy-cnvg.steamcontent.com (cache1-cgy-cnvg.steamcontent.com)
+[2025-04-19 13:07:33] HTTP/2 available
+[2025-04-19 13:07:33] Created ipv4-only http client
+[2025-04-19 13:07:33] HTTPS (SteamCache,418) - cache1-mnl-cnvg.steamcontent.com (136.239.159.33:443 / 136.239.159.33:443, host: cache1-mnl-cnvg.steamcontent.com): Negotiated HTTP/2
+[2025-04-19 13:07:33] HTTP/2 (SteamCache,418) - cache1-mnl-cnvg.steamcontent.com (136.239.159.33:443 / 136.239.159.33:443, host: cache1-mnl-cnvg.steamcontent.com): cache1-mnl-cnvg.steamcontent.com/depot/108600/manifest/6148510068001320325/5/14875946131320686966 - received 200 (OK) HTTP response
+[2025-04-19 13:07:34] HTTPS (SteamCache,419) - cache1-cgy-cnvg.steamcontent.com (136.158.96.9:443 / 136.158.96.9:443, host: cache1-cgy-cnvg.steamcontent.com): Negotiated HTTP/2
+[2025-04-19 13:07:34] HTTP/2 (SteamCache,419) - cache1-cgy-cnvg.steamcontent.com (136.158.96.9:443 / 136.158.96.9:443, host: cache1-cgy-cnvg.steamcontent.com): cache1-cgy-cnvg.steamcontent.com/depot/108600/manifest/39926102326745830/5/16599059230736477279 - received 200 (OK) HTTP response
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,Verifying Installed,
+[2025-04-19 13:07:34] Validating active workshop item 2840805724 ...
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:07:34] AppID 108600 has no changes, 2 active: 108600 (39926102326745830),108600 (6148510068001320325), 2 target: 108600 (39926102326745830),108600 (6148510068001320325),
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,Staging,
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,Committing,
+[2025-04-19 13:07:34] AppID 108600 starting commit from "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop/downloads/108600" to "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop/content/108600" : 0 updated, 0 moved, 0 deleted files
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:07:34] AppID 108600 Workshop update changed : None
+[2025-04-19 13:07:34] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2025-04-19 13:07:34] HTTP/2 (SteamCache,419) - cache1-cgy-cnvg.steamcontent.com (136.158.96.9:443 / 136.158.96.9:443, host: cache1-cgy-cnvg.steamcontent.com): Closing connection
+[2025-04-19 13:07:34] HTTP/2 (SteamCache,418) - cache1-mnl-cnvg.steamcontent.com (136.239.159.33:443 / 136.239.159.33:443, host: cache1-mnl-cnvg.steamcontent.com): Closing connection
+
+
+[2025-04-19 13:14:37] Client version: 1743712175
+[2025-04-19 13:14:37] Loaded 0 apps from install folder "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\appmanifest_*.acf".
+[2025-04-19 13:14:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2025-04-19 13:14:39] AppID 108600 scheduler update : Priority First, not played for 1745039679 seconds, update disabled for 0 seconds
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,Reconfiguring,
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,Verifying Installed,
+[2025-04-19 13:14:39] Validating active workshop item 3436537035 ...
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:14:39] AppID 108600 has no changes, 2 active: 108600 (39926102326745830),108600 (6148510068001320325), 2 target: 108600 (39926102326745830),108600 (6148510068001320325),
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,Staging,
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,Committing,
+[2025-04-19 13:14:39] AppID 108600 starting commit from "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop/downloads/108600" to "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop/content/108600" : 0 updated, 0 moved, 0 deleted files
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : Running Update,
+[2025-04-19 13:14:39] AppID 108600 Workshop update changed : None
+[2025-04-19 13:14:39] AppID 108600 scheduler finished : removed from schedule (result No Error, state 0x0) 

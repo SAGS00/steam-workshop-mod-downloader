@@ -1,0 +1,19 @@
+
+
+[2025-04-19 13:07:22] Client version: 1743712175
+[2025-04-19 13:07:22] Loading workshop items for 0 installed apps for user [a:1:2808490011]:
+[2025-04-19 13:07:30] [AppID 108600] Loaded workshop items in "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop" (2 installed, 2 needed)
+[2025-04-19 13:07:30] [AppID 108600] Download item 2840805724 requested by app
+[2025-04-19 13:07:30] [AppID 108600] Starting Workshop download job (requested item 2840805724 )
+[2025-04-19 13:07:34] [AppID 108600] Download item 2840805724 result : OK
+[2025-04-19 13:07:34] [AppID 108600] Finished Workshop download job : No Error
+[2025-04-19 13:07:34] [AppID 108600] Updating workshop item details failed with Failure
+
+
+[2025-04-19 13:14:37] Client version: 1743712175
+[2025-04-19 13:14:37] Loading workshop items for 0 installed apps for user [a:1:2680202327]:
+[2025-04-19 13:14:39] [AppID 108600] Loaded workshop items in "c:\users\chrnfrd\onedrive\desktop\steam_mod_downloader\my_mods_folder\steamapps\workshop" (2 installed, 2 needed)
+[2025-04-19 13:14:39] [AppID 108600] Download item 3436537035 requested by app
+[2025-04-19 13:14:39] [AppID 108600] Starting Workshop download job (requested item 3436537035 )
+[2025-04-19 13:14:39] [AppID 108600] Download item 3436537035 result : OK
+[2025-04-19 13:14:39] [AppID 108600] Finished Workshop download job : No Error

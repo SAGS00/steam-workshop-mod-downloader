@@ -1,0 +1,1 @@
+@echo off & setlocal enabledelayedexpansion & "..\.\steamcmd\steamcmd.exe" +force_install_dir "C:/Users/CHRNFRD/OneDrive/Desktop/steam_mod_downloader/my_mods_folder" +login anonymous +workshop_download_item 108600 3436537035 +quit
