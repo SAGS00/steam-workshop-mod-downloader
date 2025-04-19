@@ -32,7 +32,6 @@ This is a Windows application that allows users to download Steam Workshop mods 
 
 1. Open the app.
 2. Enter the **AppID** of the game you're downloading mods for.
-   - You can find the AppID by searching the game on [SteamDB](https://steamdb.info/).
 3. Enter the **Mod IDs** (one per line) of the mods you wish to download.
 4. Select a **download folder** where the mods will be saved.
 5. Press the **Download Mods** button to start downloading the mods.
