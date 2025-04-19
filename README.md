@@ -21,17 +21,12 @@ This is a Windows application that allows users to download Steam Workshop mods 
     git clone https://github.com/sags00//steam-workshop-mod-downloader.git
     ```
 
-2. **Download the precompiled `.exe`**:
-    If you don't want to compile the project yourself, you can simply download the precompiled `.exe` file from the [releases section](https://github.com/yourusername/SteamModDownloader/releases).
+2. **Locate the `.exe`**:
+    - You can find it at the cloned repository -> dist -> mod-downloader.exe
 
 3. **SteamCMD**:
     - SteamCMD is bundled with the project. You do not need to install SteamCMD separately. It is located in the `steamcmd/` folder inside the project directory.
-
-4. **Running the Application**:
-    - Once you've downloaded the `.exe` file, simply run it to start the application.
-
-    No need to install Python or any dependencies. The `.exe` is a standalone application.
-
+      
 ### How to Use
 
 1. Open the app.
