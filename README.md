@@ -16,6 +16,10 @@ This is a Windows application that allows users to download Steam Workshop mods 
 
 1. **Download the repository**:
     - Clone this repository or download the ZIP file.
+  
+    - ```bash
+    git clone https://github.com/sags00//steam-workshop-mod-downloader.git
+    ```
 
 2. **Download the precompiled `.exe`**:
     If you don't want to compile the project yourself, you can simply download the precompiled `.exe` file from the [releases section](https://github.com/yourusername/SteamModDownloader/releases).
