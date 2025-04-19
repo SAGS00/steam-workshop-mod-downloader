@@ -17,7 +17,7 @@ This is a Windows application that allows users to download Steam Workshop mods 
 1. **Download the repository**:
     - Clone this repository or download the ZIP file.
   
-    - ```bash
+    ```bash
     git clone https://github.com/sags00//steam-workshop-mod-downloader.git
     ```
 
