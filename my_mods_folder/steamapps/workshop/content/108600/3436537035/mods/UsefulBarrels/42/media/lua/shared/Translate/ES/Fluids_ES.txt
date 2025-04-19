@@ -1,5 +1,0 @@
-Fluids_ES = {
-    Fluid_UB_Show_Info = "Información del combustible",
-    Fluid_Container_UB_Barrel = "Barril",
-    Fluid_Container_UB_MetalDrum = "Metal Drum",
-} 

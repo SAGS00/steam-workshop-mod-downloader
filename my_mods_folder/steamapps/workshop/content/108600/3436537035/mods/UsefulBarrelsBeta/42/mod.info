@@ -1,9 +1,0 @@
-name=[B42] Useful Barrels (Beta)
-modversion=3.0.3
-id=UsefulBarrelsBeta
-description=Barrels can actually be more than just a sprite!
-poster=poster.png
-icon=icon.png
-author=GigaWatte
-versionMin=42.3.1
-incompatible=\UsefulBarrels,
